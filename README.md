@@ -17,7 +17,7 @@ The application provides sliders to change the values of:
 
 - iOS 9.0 and above
 - Swift 2.0 and above
-- XCode 7
+- Xcode 7
 
 ## Reporting Issues
 
