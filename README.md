@@ -26,3 +26,7 @@ Issues can be reported at [lab-ios-swift-uiview-drop-shadow/issues](https://gith
 ## License
 
 All source code is distributed under the [Apache Software License (ASL) 2.0](LICENSE).
+
+## Copyright
+
+© 2015 J4SOFT. All rights reserved.
