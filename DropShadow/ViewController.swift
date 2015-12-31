@@ -18,7 +18,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var shadowOpacitySlider: UISlider!
     @IBOutlet weak var nestedViewCornerRadiusSlider: UISlider!
     
-    
     @IBOutlet weak var shadowXOffsetValue: UILabel!
     @IBOutlet weak var shadowYOffsetValue: UILabel!
     @IBOutlet weak var shadowRadiusValue: UILabel!
