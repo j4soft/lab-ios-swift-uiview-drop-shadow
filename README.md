@@ -19,7 +19,7 @@ The application provides sliders to change the values of:
 
 ## Reporting Issues
 
-Issues can be reported at TBD.
+Issues can be reported at [lab-ios-swift-uiview-drop-shadow/issues](https://github.com/j4soft/lab-ios-swift-uiview-drop-shadow/issues).
 
 ## License
 
