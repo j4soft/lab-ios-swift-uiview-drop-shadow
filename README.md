@@ -13,7 +13,7 @@ The application provides sliders to change the values of:
 
 ![Drop Shadow Start Screenshot](/Images/Drop Shadown Start.png)
 
-## Prequisites
+## Prerequisites
 
 - iOS 9.0 and above
 - Swift 2.0 and above
