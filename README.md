@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/odaceo/lab-hello-world-swift-linux.svg)](LICENSE)
 
-The purpose of this application is to experiment on how to add a drop shadow to a ```UIView``` control. The approach can be used to apply drop shadows to controls that inherit from ```UIView``` like ```UILabel``` or ```UIButton```.
+The purpose of this application is to experiment on how to add a drop shadow to a ```UIView``` control. The approach should also be applicable with controls that inherit from ```UIView``` like ```UILabel``` or ```UIButton```.
 
 The application provides sliders to change the values of:
 
