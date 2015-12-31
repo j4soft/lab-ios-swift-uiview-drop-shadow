@@ -23,4 +23,4 @@ Issues can be reported at TBD.
 
 ## License
 
-All source code is distributed under the [Apache Software License (ASL) 2.0](License).
+All source code is distributed under the [Apache Software License (ASL) 2.0](LICENSE).
